@@ -1,7 +1,7 @@
 <!-- # Projeto_ARK_01_Java
  Projeto Java ARK 01 -->
  
- <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_168609.png" align="right"/>
+ <img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_01_Java/blob/main/img/base/java.png?raw=true" align="right"/>
 
 # Projeto ARK 01
 
@@ -19,6 +19,18 @@ O computador vai sortear um número, entre 1 e 1000 e você terá que adivinhar 
 
 
 
+
+#### Pré-requisitos:
+
+ 1. Java (JDK) 11 ou mais tarde (<a href="https://adoptopenjdk.net/" target="_blank">AdoptOpenJDK 11</a> é o nosso Java padrão no momento).
+ 2. <a href="https://maven.apache.org/" target="_blank">Apache Maven 3.6+</a>
+ 3. Acesso à Internet
+ 4. Cliente Git
+
 # License
 
-This project is licensed under the terms of the MIT license.
+Este projeto é licenciado sob os termos da licença do MIT.
+
+---------
+
+<img src="https://github.com/VictorAugustoRodriguesGomes/Projeto_ARK_01_Java/blob/main/img/base/dados.png?raw=true"/>
