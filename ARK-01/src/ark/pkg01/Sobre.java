@@ -15,7 +15,7 @@ public class Sobre extends javax.swing.JFrame {
         jLabel3 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
-        setTitle("ARK-05");
+        setTitle("ARK-01");
         setBackground(new java.awt.Color(255, 255, 255));
         setResizable(false);
 
