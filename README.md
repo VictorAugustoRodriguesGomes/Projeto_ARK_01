@@ -3,25 +3,16 @@
  
  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_168609.png" align="right"/>
 
-# DBeaver
+# Projeto ARK 01
 
-Free multi-platform database tool for developers, SQL programmers, database administrators and analysts.  
-Supports any database which has JDBC driver (which basically means - ANY database). 
-<a href="https://dbeaver.com/download/">Commercial versions</a> also support non-JDBC datasources such as 
-MongoDB, Cassandra, Couchbase, Redis, BigTable, DynamoDB, etc.
-You can find the list of all databases supported in commercial versions 
-<a href="https://dbeaver.com/databases/">here</a>.
+Os Projetos nomeado ARK são uma aplicação desenvolvidos em java na IDE NetBens. O objetivo  é desenvolver um projeto partindo de listas de exercícios encontrados na Internet, seriam projetos mais simples.
 
-Free multi-platform database tool for developers, SQL programmers, database administrators and analysts.  
-Supports any database which has JDBC driver (which basically means - ANY database). 
-<a href="https://dbeaver.com/download/">Commercial versions</a> also support non-JDBC datasources such as 
-MongoDB, Cassandra, Couchbase, Redis, BigTable, DynamoDB, etc.
-You can find the list of all databases supported in commercial versions 
-<a href="https://dbeaver.com/databases/">here</a>.
+Ark 1 é um projeto que de maneira aleatória escolhe um número de 0 à 1000 e através de palpites o usuário deverá adivinhar o número escolhido, dessa forma quando mais próximo o usuário estiver do número escolhido a aplicação responderá com a cor verde e quando ele estiver
 
-Free multi-platform database tool for developers, SQL programmers, database administrators and analysts.  
-Supports any database which has JDBC driver (which basically means - ANY database). 
-<a href="https://dbeaver.com/download/">Commercial versions</a> also support non-JDBC datasources such as 
-MongoDB, Cassandra, Couchbase, Redis, BigTable, DynamoDB, etc.
-You can find the list of all databases supported in commercial versions 
-<a href="https://dbeaver.com/databases/">here</a>.
+O computador vai sortear um número, entre 1 e 1000 e você terá que adivinhar que número é esse. A cada rodada você entra com um número e o computador vai te dar as dicas, dizendo se o número que você digitou é maior ou menor ao número que ele sorteou
+
+Ark 1 é um projeto que de maneira aleatória escolhe um número de 0 à 1000 e através de palpites o usuário deverá adivinhar o número escolhido, dessa forma quando mais próximo o usuário estiver do número escolhido a aplicação responderá com a cor verde e quando ele estiver se afastando do número escolhido o projeto responder com a cor vermelha
+
+Caso no 13° palpite o usuário nao acerte o número escolhido a aplicação informará o número através de um System.out.print
+
+Esse projeto foi inspirado   por essa questão
