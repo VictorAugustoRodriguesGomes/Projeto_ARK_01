@@ -5,9 +5,9 @@
 
 # Projeto ARK 01
 
-Os Projetos nomeado ARK são uma aplicação desenvolvidos em java na IDE NetBens. O objetivo é desenvolver um projeto partindo de listas de exercícios encontrados na Internet, seriam projetos mais simples.
+Os projetos nomeados ARK são uma aplicação desenvolvida em Java na IDE NetBeans. O objetivo é desenvolver um projeto partindo de listas de exercícios encontrados na Internet, seriam projetos mais simples.
 
-Ark 1 é um projeto que de maneira aleatória escolhe um número de 0 à 1000 e através de palpites o usuário deverá adivinhar o número escolhido, dessa forma quando mais próximo o usuário estiver do número escolhido a aplicação responderá com a cor verde e quando ele estiver se afastando do número escolhido o projeto responder com a cor vermelha, caso no 13° palpite o usuário não acerte o número escolhido a aplicação informará o número através de um System.out.print.
+Ark 1 é um projeto que de maneira aleatória escolhe um número de 0 a 1000 e por palpites o usuário deverá adivinhar o número escolhido, dessa forma quando mais próximo o usuário estiver do número escolhido a aplicação responderá com a cor verde e quando ele estiver se afastando do número escolhido o projeto responder com a cor vermelha, caso no 13° palpite o usuário não acerte o número escolhido a aplicação informará o número através de um System.out.print
 
 </br>
 
